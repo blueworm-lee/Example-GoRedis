@@ -1,10 +1,9 @@
 # GoRedis Library examples (How to use in List Type)
 
-
 ## Reference and Original Library 
 https://github.com/go-redis/redis
-## Reference and Original Library 
-Compile 
+
+## Compile
 ```
 go mod init redis/goredis
 ```
